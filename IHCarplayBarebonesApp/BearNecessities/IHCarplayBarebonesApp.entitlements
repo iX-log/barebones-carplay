@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.developer.carplay-protocols</key>
+	<array>
+		<!-- Placeholder. Any identifier works in the CarPlay Simulator.
+		     A real head unit needs the protocol Apple grants you. -->
+		<string>com.not-my-audi</string>
+	</array>
+</dict>
+</plist>

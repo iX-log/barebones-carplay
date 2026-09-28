@@ -1,0 +1,9 @@
+.DS_Store
+xcuserdata/
+DerivedData/
+*.xcuserstate
+build/
+
+# Local only: old material and screen recordings kept next to the code
+_archive/
+_media/
